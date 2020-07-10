@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm George! 👋
+
+I'm a Software Engineer passionate about technology. I'm currently the Head of Site Reliability Engineering for Murex in the Americas.
+
+📫 How to reach me through https://georgef.dev
+
+Cheers!
 
 <!--
 **fsgeorgee/fsgeorgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
