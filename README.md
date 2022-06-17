@@ -1,8 +1,10 @@
 ### Hi there, I'm George! 👋
 
-I'm a Software Engineer passionate about technology. I'm currently the Head of Site Reliability Engineering for Murex in the Americas.
+I'm currently Director Platform Engineering at Fund That Flip.
+We're building an exciting Platform to support our ambitious plans for Developer Experience.
+We're hiring! https://fundthatflip.hire.trakstar.com
 
-📫 How to reach me through https://georgef.dev
+📫 Reach me through https://georgef.dev
 
 Cheers!
 
