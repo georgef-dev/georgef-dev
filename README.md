@@ -1,24 +1,9 @@
 ### Hi there, I'm George! 👋
 
-I'm currently Director Platform Engineering at Fund That Flip.
-We're building an exciting Platform to support our ambitious plans for Developer Experience.
-We're hiring! https://fundthatflip.hire.trakstar.com
+Building High-Performance Teams & Disruptive Products
+Director, Platform Engineering, Enterprise Architecture, Business Systems at [Fund That Flip](https://www.fundthatflip.com)
 
 📫 Reach me through https://georgef.dev
 
 Cheers!
 
-<!--
-**fsgeorgee/fsgeorgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
